@@ -25,8 +25,9 @@ public class PockerGame {
 //		int number = random.nextInt(13)+1;
 //		int flowers = random.nextInt(4);
 //		System.out.print(number);
+		
 		Poker poker = new Poker();
-		poker.shuffle();
+//		poker.shuffle();
 		poker.print();
 		
 //		char a = 0;
